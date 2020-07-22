@@ -3,7 +3,7 @@
 # Uses default VPC and Subnet. Create Your Own VPC and Private Subnets for Prod Usage.
 # terraform-backend-state-in28minutes-123
 # AKIA4AHVNOD7OOO6T4KI
-#terraform-backend-state-in28min-ruhan008
+#terraform-backend-state-ruhan008-aws-eks
 
 
 terraform {
